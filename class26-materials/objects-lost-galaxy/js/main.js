@@ -1,6 +1,7 @@
 //Create a pizza object that has four properties and three methods
 
 let pizzaTwo = {}
+// pizza
 
 pizzaTwo.size = 'small'
 pizzaTwo.toppings = ['spinach','onion','jalapenos', ,'garlic']
